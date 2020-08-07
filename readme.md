@@ -3,6 +3,7 @@
 **Project and Training 1
 Java**
 
+this project was made without using fxml or javafx tools like sceneBuilder because it was not allowed for us.
 
 Gruppe:5
 
